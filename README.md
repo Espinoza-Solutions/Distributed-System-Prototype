@@ -13,7 +13,7 @@ Blueprint:
     o Peer Machines, the different machines in your system that host resources (data records), accept queries, and 
       respond accordingly.
 
-- Peer Machine – the host of resources in the system 
+- Peer Machine – the host of resources in the system: 
     o Each machine has a unique name/ID and a local directory (a folder). 
     o Each machine gets queries only from the client, the machine answers the query from the hosted files, and 
       responds back to the user. 
