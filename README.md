@@ -27,10 +27,10 @@ Blueprint:
     o Client’s request are JSON-formatted 
 
 - Communication
-  o A global/public MQTT broker (no need to import a local broker or implement a broker) 
+    o A global/public MQTT broker (no need to import a local broker or implement a broker) 
 
 - System requirement – because of time limitation  
-  o The system must be able to run a Java file. 
+    o The system must be able to run a Java file. 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
