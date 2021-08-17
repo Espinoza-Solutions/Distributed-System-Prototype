@@ -2,6 +2,7 @@
 
 
 Problem: Your system cannot host a huge volume of information and data records and accept and answer queries from clients. 
+Business Inquiries: ijespinoza00@gmail.com
 
 Solution: Implement a scalable distributed query system.
 
